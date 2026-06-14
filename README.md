@@ -25,6 +25,4 @@ All models achieved R² ≈ 1.0 confirming strong regression performance.
 ## Tech Stack
 Python | NumPy | Scikit-learn | Matplotlib
 
-## Academic Context
-Course project under Prof. Prashanth Rajam  
-VIT-AP University | B.Tech CSE (AI & ML) | 2025
+

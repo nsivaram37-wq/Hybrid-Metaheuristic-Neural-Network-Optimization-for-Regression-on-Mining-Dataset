@@ -25,4 +25,13 @@ All models achieved R² ≈ 1.0 confirming strong regression performance.
 ## Tech Stack
 Python | NumPy | Scikit-learn | Matplotlib
 
-
+hybrid-metaheuristic-nn-optimization/
+│
+├── README.md
+├── hho_mlp.py          ← your HHO-MLP code
+├── sho_ann.py          ← your SHO-ANN code
+├── gso_mlp.py          ← your GSO-MLP code
+├── dataset/
+│   └── mining_data.csv
+├── results/│
+    └── report.pdf    ← your full assignment report

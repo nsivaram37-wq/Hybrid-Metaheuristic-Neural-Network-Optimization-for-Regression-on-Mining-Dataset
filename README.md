@@ -25,6 +25,11 @@ All models achieved R² ≈ 1.0 confirming strong regression performance.
 ## Tech Stack
 Python | NumPy | Scikit-learn | Matplotlib
 
+
+
+
+
+
 hybrid-metaheuristic-nn-optimization/
 │
 ├── README.md

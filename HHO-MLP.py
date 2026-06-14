@@ -9,7 +9,7 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 # Load data
 # ======================================================
 df = pd.read_csv("data.csv")
-print("Sivaramakrishna 24BCA7558")
+
 # One-hot encode categorical columns (safer than LabelEncoder for MLP)
 cat_cols = [c for c in df.columns[:-1] if df[c].dtype == 'object' or str(df[c].dtype) == 'category']
 if cat_cols:

@@ -17,7 +17,6 @@ warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 warnings.filterwarnings("ignore", category=ConvergenceWarning)
 
-print("Sivaramakrishna 24BCA7558")
 np.random.seed(42)
 
 # ===========================
